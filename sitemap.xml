@@ -4,8 +4,20 @@
     <loc>https://www.ezyvue.com</loc>
   </url>
   <url>
-    <loc>https://www.ezyvue.com/blog/blog</loc>
+    <loc>https://www.ezyvue.com/documentation</loc>
   </url>
+  <url>
+    <loc>https://www.ezyvue.com/getStarted</loc>
+  </url>
+  <url>
+    <loc>https://www.ezyvue.com/editorIntro</loc>
+  </url>
+  <url>
+    <loc>https://www.ezyvue.com/pricing</loc>
+  </url>  
+  <url>
+    <loc>https://www.ezyvue.com/about</loc>
+  </url>  
   <url>
     <loc>https://www.ezyvue.com/blog/benefitsOfArinEcommerce</loc>
   </url>
@@ -29,14 +41,5 @@
   </url>
   <url>
     <loc>https://www.ezyvue.com/blog/displayProductsIn3DAndAROnGoDaddy</loc>
-  </url>
-  <url>
-    <loc>https://www.ezyvue.com/about</loc>
-  </url>
-  <url>
-    <loc>https://www.ezyvue.com/demos</loc>
-  </url>
-  <url>
-    <loc>https://www.ezyvue.com/productModelling</loc>
   </url>
 </urlset>
