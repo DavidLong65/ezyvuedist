@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3eeda80d.css",
-    "main.js": "/static/js/main.1f95a305.js",
+    "main.css": "/static/css/main.dc35f680.css",
+    "main.js": "/static/js/main.13b14d15.js",
     "static/js/547.de43c59c.chunk.js": "/static/js/547.de43c59c.chunk.js",
     "static/js/394.179ee8f8.chunk.js": "/static/js/394.179ee8f8.chunk.js",
     "static/js/137.83340713.chunk.js": "/static/js/137.83340713.chunk.js",
@@ -27,18 +27,15 @@
     "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.f0963fd9968fbd54cc35.ttf",
     "static/media/finaledit.jpg": "/static/media/finaledit.16e96a0b2e164de44ba7.jpg",
     "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
-    "static/media/banner.jpg": "/static/media/banner.cb650daebd290ef79b65.jpg",
     "static/media/productsection.jpg": "/static/media/productsection.f709d34d27ae1263a514.jpg",
     "static/media/addliquid.jpg": "/static/media/addliquid.52ba9dd43bd7f42df73b.jpg",
-    "static/media/embed.jpg": "/static/media/embed.c461def9cf15cccc808e.jpg",
     "static/media/newsite.jpg": "/static/media/newsite.8477f84ef8d5146497c7.jpg",
     "static/media/final.jpg": "/static/media/final.fd051f496ce6de49376c.jpg",
     "static/media/watch-store.jpg": "/static/media/watch-store.3faaec61ee4c3f309bc3.jpg",
-    "static/media/edit.jpg": "/static/media/edit.f79571c7f21a737d6377.jpg",
     "static/media/codeadded.jpg": "/static/media/codeadded.e29c02451de5faf5e37c.jpg",
-    "static/media/preview.jpg": "/static/media/preview.b030976495d7330e95ef.jpg",
     "static/media/addsection.jpg": "/static/media/addsection.f0fcede0ff47aa7e9821.jpg",
     "static/media/embedcodeelement.jpg": "/static/media/embedcodeelement.8da214b25d844ca3388a.jpg",
+    "static/media/preview.jpg": "/static/media/preview.b030976495d7330e95ef.jpg",
     "static/media/twocolumns.jpg": "/static/media/twocolumns.b0be5d89bc28616168c8.jpg",
     "static/media/newsection.jpg": "/static/media/newsection.acf09bbe4d5726687c16.jpg",
     "static/media/embedsettings.jpg": "/static/media/embedsettings.3fe21ec08a4f70f244cc.jpg",
@@ -48,7 +45,6 @@
     "static/media/metaverse.jpg": "/static/media/metaverse.a34dba7914ade4e1a901.jpg",
     "static/media/studio.jpg": "/static/media/studio.bfc76490680009b73b6d.jpg",
     "static/media/engineers.jpg": "/static/media/engineers.728e4c7f60cee0799a7c.jpg",
-    "static/media/newproject.jpg": "/static/media/newproject.38f339451c0f7e12a033.jpg",
     "static/media/selecthtml.jpg": "/static/media/selecthtml.94e56e711b6ff11d0359.jpg",
     "static/media/watch-store-small.jpg": "/static/media/watch-store-small.eff0e45018ad002d5f75.jpg",
     "static/media/ar.jpg": "/static/media/ar.618977a63adab487e1f6.jpg",
@@ -56,9 +52,13 @@
     "static/media/sunglasses.jpg": "/static/media/sunglasses.c4c706c90407d7925de4.jpg",
     "static/media/toaster-detail.jpg": "/static/media/toaster-detail.048166ee83ad55417152.jpg",
     "static/media/shoe-variants.jpg": "/static/media/shoe-variants.a66cda107fce929570c2.jpg",
+    "static/media/mazda.jpg": "/static/media/mazda.e632b57fb3ada8adc1ba.jpg",
     "static/media/computer.jpg": "/static/media/computer.c7dae71c0e5cffabb820.jpg",
+    "static/media/robot.jpg": "/static/media/robot.70c83170a4b521530551.jpg",
     "static/media/toaster.jpg": "/static/media/toaster.47182123a468110e7295.jpg",
+    "static/media/sculpture.jpg": "/static/media/sculpture.4c4251a87e6edf4366fe.jpg",
     "static/media/vr.jpg": "/static/media/vr.58a2f6c0ab615c1a3eaa.jpg",
+    "static/media/trex.jpg": "/static/media/trex.c360092a1d2c7ccf04b2.jpg",
     "static/media/ar3.jpg": "/static/media/ar3.d757ef688bc703d1fa1a.jpg",
     "static/media/jewelrystore1.jpg": "/static/media/jewelrystore1.7699f27af8f941878e17.jpg",
     "static/media/tablet.jpg": "/static/media/tablet.8248a22f595bd9febd1c.jpg",
@@ -68,7 +68,7 @@
     "static/media/cube.svg": "/static/media/cube.31b203cacba71f3f1ef2397ea9fb778d.svg"
   },
   "entrypoints": [
-    "static/css/main.3eeda80d.css",
-    "static/js/main.1f95a305.js"
+    "static/css/main.dc35f680.css",
+    "static/js/main.13b14d15.js"
   ]
 }
