@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc35f680.css",
-    "main.js": "/static/js/main.13b14d15.js",
+    "main.css": "/static/css/main.2fbe6267.css",
+    "main.js": "/static/js/main.637e91a7.js",
     "static/js/547.de43c59c.chunk.js": "/static/js/547.de43c59c.chunk.js",
     "static/js/394.179ee8f8.chunk.js": "/static/js/394.179ee8f8.chunk.js",
     "static/js/137.83340713.chunk.js": "/static/js/137.83340713.chunk.js",
@@ -32,6 +32,8 @@
     "static/media/newsite.jpg": "/static/media/newsite.8477f84ef8d5146497c7.jpg",
     "static/media/final.jpg": "/static/media/final.fd051f496ce6de49376c.jpg",
     "static/media/watch-store.jpg": "/static/media/watch-store.3faaec61ee4c3f309bc3.jpg",
+    "static/media/studio.jpg": "/static/media/studio.5a58f71effe172f861e2.jpg",
+    "static/media/studio1.jpg": "/static/media/studio1.9faac07670629634874a.jpg",
     "static/media/codeadded.jpg": "/static/media/codeadded.e29c02451de5faf5e37c.jpg",
     "static/media/addsection.jpg": "/static/media/addsection.f0fcede0ff47aa7e9821.jpg",
     "static/media/embedcodeelement.jpg": "/static/media/embedcodeelement.8da214b25d844ca3388a.jpg",
@@ -43,7 +45,6 @@
     "static/media/tshirtvariants.jpg": "/static/media/tshirtvariants.d6de1f04b8c59184d589.jpg",
     "static/media/code.jpg": "/static/media/code.03f41727c4435cba6fe8.jpg",
     "static/media/metaverse.jpg": "/static/media/metaverse.a34dba7914ade4e1a901.jpg",
-    "static/media/studio.jpg": "/static/media/studio.bfc76490680009b73b6d.jpg",
     "static/media/engineers.jpg": "/static/media/engineers.728e4c7f60cee0799a7c.jpg",
     "static/media/selecthtml.jpg": "/static/media/selecthtml.94e56e711b6ff11d0359.jpg",
     "static/media/watch-store-small.jpg": "/static/media/watch-store-small.eff0e45018ad002d5f75.jpg",
@@ -68,7 +69,7 @@
     "static/media/cube.svg": "/static/media/cube.31b203cacba71f3f1ef2397ea9fb778d.svg"
   },
   "entrypoints": [
-    "static/css/main.dc35f680.css",
-    "static/js/main.13b14d15.js"
+    "static/css/main.2fbe6267.css",
+    "static/js/main.637e91a7.js"
   ]
 }
