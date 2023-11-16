@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6559dce2.css",
-    "main.js": "/static/js/main.3f250623.js",
+    "main.css": "/static/css/main.59912982.css",
+    "main.js": "/static/js/main.48ef416f.js",
     "static/js/547.de43c59c.chunk.js": "/static/js/547.de43c59c.chunk.js",
     "static/js/394.179ee8f8.chunk.js": "/static/js/394.179ee8f8.chunk.js",
     "static/js/137.83340713.chunk.js": "/static/js/137.83340713.chunk.js",
@@ -35,11 +35,13 @@
     "static/media/studio.jpg": "/static/media/studio.5a58f71effe172f861e2.jpg",
     "static/media/studio1.jpg": "/static/media/studio1.9faac07670629634874a.jpg",
     "static/media/codeadded.jpg": "/static/media/codeadded.e29c02451de5faf5e37c.jpg",
+    "static/media/cameradetail.jpg": "/static/media/cameradetail.a3b75ed3570a4c7ca109.jpg",
     "static/media/addsection.jpg": "/static/media/addsection.f0fcede0ff47aa7e9821.jpg",
     "static/media/embedcodeelement.jpg": "/static/media/embedcodeelement.8da214b25d844ca3388a.jpg",
     "static/media/preview.jpg": "/static/media/preview.b030976495d7330e95ef.jpg",
     "static/media/twocolumns.jpg": "/static/media/twocolumns.b0be5d89bc28616168c8.jpg",
     "static/media/newsection.jpg": "/static/media/newsection.acf09bbe4d5726687c16.jpg",
+    "static/media/sunglasses.jpg": "/static/media/sunglasses.7cbafdbc55ee2bf16a44.jpg",
     "static/media/embedsettings.jpg": "/static/media/embedsettings.3fe21ec08a4f70f244cc.jpg",
     "static/media/jewelrystore.jpg": "/static/media/jewelrystore.c32cb8ccb84c1cec634d.jpg",
     "static/media/tshirtvariants.jpg": "/static/media/tshirtvariants.d6de1f04b8c59184d589.jpg",
@@ -48,9 +50,10 @@
     "static/media/engineers.jpg": "/static/media/engineers.728e4c7f60cee0799a7c.jpg",
     "static/media/selecthtml.jpg": "/static/media/selecthtml.94e56e711b6ff11d0359.jpg",
     "static/media/watch-store-small.jpg": "/static/media/watch-store-small.eff0e45018ad002d5f75.jpg",
+    "static/media/ar1.jpg": "/static/media/ar1.2ad2d1880643a4cc01b8.jpg",
+    "static/media/handbag.jpg": "/static/media/handbag.9f0feac0d81142328068.jpg",
     "static/media/ar.jpg": "/static/media/ar.618977a63adab487e1f6.jpg",
     "static/media/measurements.jpg": "/static/media/measurements.986ceea261fe908b51d5.jpg",
-    "static/media/sunglasses.jpg": "/static/media/sunglasses.c4c706c90407d7925de4.jpg",
     "static/media/toaster-detail.jpg": "/static/media/toaster-detail.048166ee83ad55417152.jpg",
     "static/media/shoe-variants.jpg": "/static/media/shoe-variants.a66cda107fce929570c2.jpg",
     "static/media/mazda.jpg": "/static/media/mazda.e632b57fb3ada8adc1ba.jpg",
@@ -69,7 +72,7 @@
     "static/media/cube.svg": "/static/media/cube.31b203cacba71f3f1ef2397ea9fb778d.svg"
   },
   "entrypoints": [
-    "static/css/main.6559dce2.css",
-    "static/js/main.3f250623.js"
+    "static/css/main.59912982.css",
+    "static/js/main.48ef416f.js"
   ]
 }
