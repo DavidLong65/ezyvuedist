@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /dep/
-
-Sitemap: https://www.ezyvue.com/sitemap.xml
