@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d01e1b98.css",
-    "main.js": "/static/js/main.11a4e9ef.js",
+    "main.css": "/static/css/main.0646cbe5.css",
+    "main.js": "/static/js/main.9ee873f2.js",
     "static/js/547.de43c59c.chunk.js": "/static/js/547.de43c59c.chunk.js",
     "static/js/394.179ee8f8.chunk.js": "/static/js/394.179ee8f8.chunk.js",
     "static/js/137.83340713.chunk.js": "/static/js/137.83340713.chunk.js",
@@ -23,6 +23,7 @@
     "static/js/205.85061516.chunk.js": "/static/js/205.85061516.chunk.js",
     "static/js/613.ba929eaf.chunk.js": "/static/js/613.ba929eaf.chunk.js",
     "static/js/362.5f446155.chunk.js": "/static/js/362.5f446155.chunk.js",
+    "static/media/ar.gif": "/static/media/ar.12e1a3ac2931c171a04b.gif",
     "static/media/finalimage.jpg": "/static/media/finalimage.7a65d3365d0c32d11703.jpg",
     "static/media/Montserrat-Light.ttf": "/static/media/Montserrat-Light.f0963fd9968fbd54cc35.ttf",
     "static/media/finaledit.jpg": "/static/media/finaledit.16e96a0b2e164de44ba7.jpg",
@@ -53,27 +54,21 @@
     "static/media/watch-store-small.jpg": "/static/media/watch-store-small.eff0e45018ad002d5f75.jpg",
     "static/media/ar1.jpg": "/static/media/ar1.2ad2d1880643a4cc01b8.jpg",
     "static/media/handbag.jpg": "/static/media/handbag.9f0feac0d81142328068.jpg",
-    "static/media/ar.jpg": "/static/media/ar.618977a63adab487e1f6.jpg",
-    "static/media/measurements.jpg": "/static/media/measurements.986ceea261fe908b51d5.jpg",
     "static/media/toaster-detail.jpg": "/static/media/toaster-detail.048166ee83ad55417152.jpg",
-    "static/media/shoe-variants.jpg": "/static/media/shoe-variants.a66cda107fce929570c2.jpg",
     "static/media/mazda.jpg": "/static/media/mazda.e632b57fb3ada8adc1ba.jpg",
-    "static/media/computer.jpg": "/static/media/computer.c7dae71c0e5cffabb820.jpg",
     "static/media/robot.jpg": "/static/media/robot.70c83170a4b521530551.jpg",
     "static/media/toaster.jpg": "/static/media/toaster.47182123a468110e7295.jpg",
     "static/media/sculpture.jpg": "/static/media/sculpture.4c4251a87e6edf4366fe.jpg",
-    "static/media/vr.jpg": "/static/media/vr.58a2f6c0ab615c1a3eaa.jpg",
     "static/media/trex.jpg": "/static/media/trex.c360092a1d2c7ccf04b2.jpg",
     "static/media/ar3.jpg": "/static/media/ar3.d757ef688bc703d1fa1a.jpg",
     "static/media/jewelrystore1.jpg": "/static/media/jewelrystore1.7699f27af8f941878e17.jpg",
     "static/media/tablet.jpg": "/static/media/tablet.8248a22f595bd9febd1c.jpg",
     "static/media/emailsent.jpg": "/static/media/emailsent.a7e737f3d90e5256ceb5.jpg",
-    "static/media/camera.jpg": "/static/media/camera.f3e33829efb125ad114d.jpg",
     "index.html": "/index.html",
     "static/media/cube.svg": "/static/media/cube.31b203cacba71f3f1ef2397ea9fb778d.svg"
   },
   "entrypoints": [
-    "static/css/main.d01e1b98.css",
-    "static/js/main.11a4e9ef.js"
+    "static/css/main.0646cbe5.css",
+    "static/js/main.9ee873f2.js"
   ]
 }
