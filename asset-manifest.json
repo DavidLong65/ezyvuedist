@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0a9f1dc.css",
-    "main.js": "/static/js/main.98847bfc.js",
+    "main.css": "/static/css/main.68d1dfbb.css",
+    "main.js": "/static/js/main.c0d90c39.js",
     "static/js/547.122ed027.chunk.js": "/static/js/547.122ed027.chunk.js",
     "static/js/394.396fbff6.chunk.js": "/static/js/394.396fbff6.chunk.js",
     "static/js/137.8f74a42d.chunk.js": "/static/js/137.8f74a42d.chunk.js",
@@ -63,14 +63,16 @@
     "static/media/sculpture.jpg": "/static/media/sculpture.4c4251a87e6edf4366fe.jpg",
     "static/media/trex.jpg": "/static/media/trex.c360092a1d2c7ccf04b2.jpg",
     "static/media/ar3.jpg": "/static/media/ar3.d757ef688bc703d1fa1a.jpg",
+    "static/media/complete.jpg": "/static/media/complete.7522757f7e7509585240.jpg",
     "static/media/jewelrystore1.jpg": "/static/media/jewelrystore1.7699f27af8f941878e17.jpg",
     "static/media/tablet.jpg": "/static/media/tablet.8248a22f595bd9febd1c.jpg",
     "static/media/emailsent.jpg": "/static/media/emailsent.a7e737f3d90e5256ceb5.jpg",
+    "static/media/error.jpg": "/static/media/error.4007078af10918e94d7a.jpg",
     "index.html": "/index.html",
     "static/media/cube.svg": "/static/media/cube.31b203cacba71f3f1ef2397ea9fb778d.svg"
   },
   "entrypoints": [
-    "static/css/main.f0a9f1dc.css",
-    "static/js/main.98847bfc.js"
+    "static/css/main.68d1dfbb.css",
+    "static/js/main.c0d90c39.js"
   ]
 }
