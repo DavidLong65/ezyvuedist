@@ -3,26 +3,44 @@
   <url>
     <loc>https://www.ezyview.net</loc>
   </url>
-  <url>
-    <loc>https://www.ezyview.net/3d-viewer</loc>
+   <url>
+    <loc>https://www.ezyview.net/getStarted</loc>
   </url>
   <url>
-    <loc>https://www.ezyview.net/ar-for-ecommerce</loc>
+    <loc>https://www.ezyview.net/platform/3d-viewer</loc>
+  </url>
+  <url>
+    <loc>https://www.ezyview.net/platform/product-configurator</loc>
+  </url>
+  <url>
+    <loc>https://www.ezyview.net/platform/ar-for-ecommerce</loc>
+  </url>
+  <url>
+    <loc>https://www.ezyview.net/platform/editor</loc>
+  </url>
+  <url>
+    <loc>https://www.ezyview.net/solutions/home-appliances</loc>
+  </url>
+  <url>
+    <loc>https://www.ezyview.net/solutions/fashion</loc>
+  </url>
+  <url>
+    <loc>https://www.ezyview.net/solutions/furniture</loc>
   </url>
   <url>
     <loc>https://www.ezyview.net/documentation</loc>
   </url>
   <url>
-    <loc>https://www.ezyview.net/getStarted</loc>
+    <loc>https://www.ezyview.net/demos</loc>
   </url>
   <url>
-    <loc>https://www.ezyview.net/editorIntro</loc>
+    <loc>https://www.ezyview.net/docs</loc>
   </url>
   <url>
     <loc>https://www.ezyview.net/about</loc>
   </url>
    <url>
-    <loc>https://www.ezyview.net/blog</loc>
+    <loc>https://www.ezyview.net/blog/blog</loc>
   </url>
   <url>
     <loc>https://www.ezyview.net/blog/benefitsOfArinEcommerce</loc>
