@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7c9dd58.css",
-    "main.js": "/static/js/main.49583c4d.js",
+    "main.css": "/static/css/main.eb74832a.css",
+    "main.js": "/static/js/main.e4464ebd.js",
     "static/js/547.f27ef79f.chunk.js": "/static/js/547.f27ef79f.chunk.js",
     "static/js/394.5546403f.chunk.js": "/static/js/394.5546403f.chunk.js",
     "static/js/137.d57462be.chunk.js": "/static/js/137.d57462be.chunk.js",
@@ -66,6 +66,7 @@
     "static/media/handbag.jpg": "/static/media/handbag.9f0feac0d81142328068.jpg",
     "static/media/digital-marketing.jpg": "/static/media/digital-marketing.0f433c3b3a197606bbd9.jpg",
     "static/media/ring3.jpg": "/static/media/ring3.bb322056afba170b14dc.jpg",
+    "static/media/chair.jpg": "/static/media/chair.23ffa4d0e6e11352597a.jpg",
     "static/media/website.jpg": "/static/media/website.ada9ab2b31bca880ff6a.jpg",
     "static/media/tree.jpg": "/static/media/tree.98d60133cc1367342b01.jpg",
     "static/media/ring4.jpg": "/static/media/ring4.1e918bc194a0da43ade0.jpg",
@@ -85,7 +86,7 @@
     "static/media/cube.svg": "/static/media/cube.31b203cacba71f3f1ef2397ea9fb778d.svg"
   },
   "entrypoints": [
-    "static/css/main.c7c9dd58.css",
-    "static/js/main.49583c4d.js"
+    "static/css/main.eb74832a.css",
+    "static/js/main.e4464ebd.js"
   ]
 }
